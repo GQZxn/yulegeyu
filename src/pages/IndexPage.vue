@@ -28,7 +28,7 @@
       style="margin-bottom: 16px"
       @click="toGamePage(lunaticGameConfig)"
     >
-      地狱模式
+      超难模式
     </a-button>
     <a-button block style="margin-bottom: 16px" @click="() => toGamePage()">
       自定义
