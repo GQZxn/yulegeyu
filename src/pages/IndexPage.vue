@@ -1,7 +1,7 @@
 <template>
   <div id="indexPage">
-    <h1>🐟 鱼了个鱼</h1>
-    <div style="margin-bottom: 16px">低配版羊了个羊小游戏，仅供消遣</div>
+    <h1>宁了个宁</h1>
+    <div style="margin-bottom: 16px">玩家愉快</div>
     <a-button
       block
       style="margin-bottom: 16px"
@@ -40,9 +40,9 @@
       </div>
     </a>
     <div class="footer">
-      鱼了个鱼 ©2022 by
+      宁了个宁 ©2022 by
       <a href="https://github.com/liyupi" target="_blank" style="color: #fff">
-        程序员鱼皮
+        宁宁
       </a>
       |
       <a
