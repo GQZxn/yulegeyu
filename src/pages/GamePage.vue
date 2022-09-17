@@ -5,7 +5,7 @@
       <!-- 胜利 -->
       <div v-if="gameStatus === 3" style="text-align: center">
         <h2>恭喜，你赢啦！🎉</h2>
-        <img alt="程序员鱼皮" src="../assets/kunkun.png" />
+        <img alt="宁宁" src="../assets/kunkun.png" />
       </div>
       <!-- 分层选块 -->
       <div v-show="gameStatus > 0" class="level-board">
